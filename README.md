@@ -10,7 +10,7 @@ O objetivo é registrar minha evolução, praticar conceitos fundamentais e acom
 
 ---
 
-##🎯 Objetivos
+## 🎯 Objetivos
 
 - Praticar HTML5 e CSS3.
 - Aprimorar conhecimentos em JavaScript.
@@ -21,7 +21,7 @@ O objetivo é registrar minha evolução, praticar conceitos fundamentais e acom
 
 ---
 
-##🛠️ Tecnologias
+## 🛠️ Tecnologias
 
 - HTML5
 - CSS3
@@ -32,7 +32,7 @@ O objetivo é registrar minha evolução, praticar conceitos fundamentais e acom
 
 ---
 
-##📂 Conteúdo
+## 📂 Conteúdo
 
 Este repositório será atualizado continuamente com:
 
@@ -45,7 +45,7 @@ Este repositório será atualizado continuamente com:
 
 ---
 
-##📌 Status
+## 📌 Status
 
 🚧 Em constante atualização.
 
@@ -53,7 +53,7 @@ Novos conteúdos serão adicionados conforme avanço nos estudos e desenvolvo no
 
 ---
 
-##👩‍💻 Desenvolvido por
+## 👩‍💻 Desenvolvido por
 
 Kiara Da Luz Silva
 
